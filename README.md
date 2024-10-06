@@ -4,12 +4,12 @@ This repository contains multiple .json files with design tokens and can help yo
 * saving time defining scale for sizing, spacing, borders, etc.
 ## Tokens studio for Figma
 Follow these steps to succesfully install these design tokens within Figma and kickstart your design system project:
-* download all .json files,
+* download `design-tokens` including all .json files,
 * open Figma and create a new file,
 * start the plugin "Tokens studio for Figma",
 * click on the button "Empty File",
 * navigate to the top right and click on the switch with {} icon
-* insert the file called `globaltokens_withparentkeys`,
+* insert the file called `global.json`,
 * press "Save JSON"
 * navigate back to the switch and click on the text icon
 * check if you see all of the global design tokens.
