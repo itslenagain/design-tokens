@@ -20,3 +20,4 @@ Follow these steps to convert the tokens from the plugin into Figma variables:
 * click on the dropdown "Styles & Variables",
 * choose "Export styles & variables to Figma",
 * (optional) keep the default settings, unless you already have variables. Then you might want to consider enabling "Update existing (..)"
+* press "Confirm" to complete importing your global tokens in Figma as variables.
