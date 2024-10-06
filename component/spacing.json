@@ -1,0 +1,42 @@
+{
+  "spacing": {
+    "button": {
+      "gap": {
+        "xl": {
+          "value": "{spacing.100}",
+          "type": "spacing"
+        },
+        "lg": {
+          "value": "{spacing.100}",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "{spacing.100}",
+          "type": "spacing"
+        },
+        "sm": {
+          "value": "{spacing.50}",
+          "type": "spacing"
+        }
+      },
+      "inline": {
+        "xl": {
+          "value": "{spacing.300}",
+          "type": "spacing"
+        },
+        "lg": {
+          "value": "{spacing.200}",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "{spacing.150}",
+          "type": "spacing"
+        },
+        "sm": {
+          "value": "{spacing.100}",
+          "type": "spacing"
+        }
+      }
+    }
+  }
+}

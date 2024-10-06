@@ -1,0 +1,62 @@
+{
+  "sizing": {
+    "button": {
+      "height": {
+        "xl": {
+          "value": "{sizing.600}",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{sizing.500}",
+          "type": "sizing"
+        },
+        "md": {
+          "value": "{sizing.400}",
+          "type": "sizing"
+        },
+        "sm": {
+          "value": "{sizing.300}",
+          "type": "sizing"
+        }
+      },
+      "border-radius": {
+        "value": "{border-radius.50}",
+        "type": "borderRadius"
+      }
+    },
+    "select": {
+      "height": {
+        "value": "{sizing.500}",
+        "type": "sizing"
+      },
+      "min-width": {
+        "value": "199px",
+        "type": "sizing"
+      }
+    },
+    "text area": {
+      "min-width": {
+        "value": "199px",
+        "type": "sizing"
+      },
+      "min-height": {
+        "value": "81px",
+        "type": "sizing"
+      },
+      "max-height": {
+        "value": "199px",
+        "type": "sizing"
+      }
+    },
+    "tooltip": {
+      "max-height": {
+        "value": "199px",
+        "type": "sizing"
+      },
+      "min-width": {
+        "value": "199px",
+        "type": "sizing"
+      }
+    }
+  }
+}

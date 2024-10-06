@@ -1,0 +1,26 @@
+{
+  "type": {
+    "button": {
+      "default": {
+        "font-weight": {
+          "value": "{font-weight.500}",
+          "type": "fontWeight"
+        },
+        "font-size": {
+          "value": "{font-size.100}",
+          "type": "fontSizes"
+        }
+      },
+      "subtle": {
+        "font-weight": {
+          "value": "{font-weight.500}",
+          "type": "fontWeight"
+        },
+        "font-size": {
+          "value": "{font-size.75}",
+          "type": "fontSizes"
+        }
+      }
+    }
+  }
+}
