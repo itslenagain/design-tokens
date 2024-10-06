@@ -1,0 +1,112 @@
+{
+  "type": {
+    "heading": {
+      "font-weight": {
+        "default": {
+          "value": "{font-weight.700}",
+          "type": "fontWeight"
+        },
+        "subtle": {
+          "value": "{font-weight.500}",
+          "type": "fontWeight"
+        }
+      },
+      "font-size": {
+        "sm": {
+          "value": "{font-size.100}",
+          "type": "fontSizes"
+        },
+        "md": {
+          "value": "{font-size.200}",
+          "type": "fontSizes"
+        },
+        "lg": {
+          "value": "{font-size.400}",
+          "type": "fontSizes"
+        },
+        "xl": {
+          "value": "{font-size.600}",
+          "type": "fontSizes"
+        }
+      }
+    },
+    "body": {
+      "font-weight": {
+        "default": {
+          "value": "{font-weight.400}",
+          "type": "fontWeight"
+        },
+        "emphasize": {
+          "value": "{font-weight.600}",
+          "type": "fontWeight"
+        }
+      },
+      "font-size": {
+        "md": {
+          "value": "{font-size.100}",
+          "type": "fontSizes"
+        },
+        "lg": {
+          "value": "{font-size.200}",
+          "type": "fontSizes"
+        },
+        "sm": {
+          "value": "{font-size.75}",
+          "type": "fontSizes"
+        }
+      }
+    },
+    "caption": {
+      "font-weight": {
+        "value": "{font-weight.400}",
+        "type": "fontWeight"
+      },
+      "font-size": {
+        "value": "{font-size.75}",
+        "type": "fontSizes"
+      }
+    },
+    "form": {
+      "placeholder": {
+        "font-weight": {
+          "value": "{font-weight.400}",
+          "type": "fontWeight"
+        },
+        "font-size": {
+          "value": "{font-size.100}",
+          "type": "fontSizes"
+        }
+      },
+      "input": {
+        "font-weight": {
+          "value": "{font-weight.400}",
+          "type": "fontWeight"
+        },
+        "font-size": {
+          "value": "{font-size.100}",
+          "type": "fontSizes"
+        }
+      },
+      "helper": {
+        "font-weight": {
+          "value": "{font-weight.400}",
+          "type": "fontWeight"
+        },
+        "font-size": {
+          "value": "{font-size.75}",
+          "type": "fontSizes"
+        }
+      },
+      "label": {
+        "font-weight": {
+          "value": "{font-weight.500}",
+          "type": "fontWeight"
+        },
+        "font-size": {
+          "value": "{font-size.100}",
+          "type": "fontSizes"
+        }
+      }
+    }
+  }
+}

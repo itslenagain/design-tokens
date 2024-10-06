@@ -1,0 +1,36 @@
+{
+  "sizing": {
+    "border": {
+      "default": {
+        "value": "{border-width.1}",
+        "type": "borderWidth"
+      }
+    },
+    "icon": {
+      "sm": {
+        "value": "{sizing.200}",
+        "type": "sizing"
+      },
+      "md": {
+        "value": "{sizing.300}",
+        "type": "sizing"
+      },
+      "lg": {
+        "value": "{sizing.400}",
+        "type": "sizing"
+      }
+    },
+    "form": {
+      "border-radius": {
+        "value": "{border-radius.50}",
+        "type": "borderRadius"
+      }
+    },
+    "modal": {
+      "border-radius": {
+        "value": "{border-radius.50}",
+        "type": "borderRadius"
+      }
+    }
+  }
+}
