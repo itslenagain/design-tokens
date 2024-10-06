@@ -9,7 +9,7 @@ Follow these steps to succesfully install these design tokens within Figma and k
 * start the plugin "Tokens studio for Figma",
 * click on the button "Empty File",
 * navigate to the top right and click on the switch with {} icon
-* insert the file called <mark>globaltokens_withparentkeys</mark>,
+* insert the file called `globaltokens_withparentkeys`,
 * press "Save JSON"
 * navigate back to the switch and click on the text icon
 * check if you see all of the global design tokens.
