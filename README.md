@@ -1,4 +1,4 @@
-# design-tokens
+# Design Tokens for Figma
 This repository contains multiple .json files with design tokens and can help you with:
 * the setup of a new design system,
 * saving time defining scale for sizing, spacing, borders, etc.
